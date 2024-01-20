@@ -1,0 +1,2 @@
+# A-low-parameters-Deep-Learning-Model-for-Fault-Detection-of-PV-Modules-Using-Thermal-Images
+Convolutional neural network (CNN) architecture that achieves and surpasses state-of-the-art accuracy on the Infrared Solar Modules dataset. We proposed an architecture that combines the strengths and principles of well-known architectures such as Unet, DenseNet, and HRnet. We will now refer to this architecture as HDUnet. 
