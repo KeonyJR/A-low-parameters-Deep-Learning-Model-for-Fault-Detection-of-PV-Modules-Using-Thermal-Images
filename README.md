@@ -6,19 +6,22 @@ Convolutional neural network (CNN) architecture that achieves and surpasses stat
 <p align="center">
   <img src=https://github.com/KeonyJR/A-low-parameters-Deep-Learning-Model-for-Fault-Detection-of-PV-Modules-Using-Thermal-Images/assets/10182525/9cbc9b43-7104-47f5-9f47-0722adedab3a alt="Table 1 : Dataset description.">
 </p>
-<p align="center"><i>Descripción en cursiva</i></p>
+<p align="center"><i>Table 1 : Dataset description.</i></p>
+
 
 <p align="center">
   <img src=https://github.com/KeonyJR/A-low-parameters-Deep-Learning-Model-for-Fault-Detection-of-PV-Modules-Using-Thermal-Images/assets/10182525/75bdb1ed-93b7-4bf8-a72a-98678eb408f0 alt="Figure 1: Evolution and Scheme of the proposed model called HDUnet.">
 </p>
-<p align="center"><i>Descripción en cursiva</i></p>
+<p align="center"><i>Figure 1: Evolution and Scheme of the proposed model called HDUnet.</i></p>
+
 
 <p align="center">
   <img src=https://github.com/KeonyJR/A-low-parameters-Deep-Learning-Model-for-Fault-Detection-of-PV-Modules-Using-Thermal-Images/assets/10182525/ba19197a-dd2e-40df-a28b-eb88509c6103 alt="Figure 2: Elements of HDUnet layers. (a) Input block, (b) Dense layer, (c) Output block and (d) Dense Block.">
 </p>
-<p align="center"><i>Descripción en cursiva</i></p>
+<p align="center"><i>Figure 2: Elements of HDUnet layers. (a) Input block, (b) Dense layer, (c) Output block and (d) Dense Block.</i></p>
+
 
 <p align="center">
   <img src=https://github.com/KeonyJR/A-low-parameters-Deep-Learning-Model-for-Fault-Detection-of-PV-Modules-Using-Thermal-Images/assets/10182525/2756ec4e-16a0-45a7-b8f1-7eb86a693df8 alt="Figure 3: Scheme for the information exchange across different levels of resolution.">
 </p>
-<p align="center"><i>Descripción en cursiva</i></p>
+<p align="center"><i>Figure 3: Scheme for the information exchange across different levels of resolution.</i></p>
